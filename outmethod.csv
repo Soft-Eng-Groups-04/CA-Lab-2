@@ -1,0 +1,14 @@
+file,class,method,constructor,line,cbo,cboModified,fanin,fanout,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorClass.java,CalculatorClass,"divideExact/2[int,int]",false,3,0,1,1,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorClass.java,CalculatorClass,"addExact/2[int,int]",false,2,0,2,2,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\TestRunner.java,TestRunner,main/1[java.lang.String[]],false,6,2,0,0,0,2,5,7,0,1,1,5,0,0,1,0,0,0,0,0,1,0,1,0,0,0,6,9,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorMockTests.java,CalculatorMockTests,addExactTest/0,false,31,3,2,0,2,1,5,6,0,2,0,5,0,0,0,0,0,0,0,6,2,0,0,0,0,0,8,1,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorMockTests.java,CalculatorMockTests,setUp/0,false,25,2,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorTests.java,CalculatorTests,divideIntegerTest/0,false,30,2,0,0,0,1,2,5,0,2,0,2,0,0,0,0,0,0,1,3,2,0,0,0,0,0,7,0,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorTests.java,CalculatorTests,addNumberExceptionTest/0,false,21,2,0,0,0,1,2,6,0,1,0,2,0,0,0,0,0,0,1,1,1,0,1,0,0,1,7,0,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorTests.java,CalculatorTests,divideByZeroExceptionTest/0,false,39,2,0,0,0,1,2,6,0,1,0,2,0,0,0,0,0,0,1,2,1,0,1,0,0,1,9,0,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorTests.java,CalculatorTests,addNumberTest/0,false,12,2,0,0,0,1,2,5,0,2,0,2,0,0,0,0,0,0,1,3,2,0,0,0,0,0,7,0,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\Main.java,Main,main/1[java.lang.String[]],false,2,0,0,0,0,1,1,3,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,9,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorProgram.java,CalculatorProgram,CalculatorProgram/1[CalculatorClass],true,4,1,1,1,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorProgram.java,CalculatorProgram,"divideExact/2[int,int]",false,12,1,1,0,1,1,1,3,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorProgram.java,CalculatorProgram,"addExact/2[int,int]",false,8,1,2,1,1,1,1,3,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false

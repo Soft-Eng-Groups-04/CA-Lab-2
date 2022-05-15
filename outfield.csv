@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorMockTests.java,CalculatorMockTests,addExactTest/0,calculationBackend,1
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorMockTests.java,CalculatorMockTests,addExactTest/0,calculatorProgram,1
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorMockTests.java,CalculatorMockTests,setUp/0,calculationBackend,1
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorMockTests.java,CalculatorMockTests,setUp/0,calculatorProgram,1
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorProgram.java,CalculatorProgram,CalculatorProgram/1[CalculatorClass],calculationBackend,3
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorProgram.java,CalculatorProgram,"divideExact/2[int,int]",calculationBackend,1
+D:\JavaProjects\MathTestingProject\src\main\java\CalculatorProgram.java,CalculatorProgram,"addExact/2[int,int]",calculationBackend,1
